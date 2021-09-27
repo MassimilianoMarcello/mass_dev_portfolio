@@ -1,4 +1,4 @@
-import sanityClient from '@sanityj/client'
+import sanityClient from '@sanity/client'
 
 export default sanityClient({
   projectId: "h0ndekjk",
